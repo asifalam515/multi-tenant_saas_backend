@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "express": "^5.2.1",
+    "pg": "^8.16.3"
+  },
+  "scripts": {
+    "dev": "npx tsx watch ./src/server.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
